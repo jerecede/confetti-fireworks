@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(60, 57, 57);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    height: fit-content;
+
+}
+
+.canvas {
+    background-color: white ;
+    max-width: 800px;
+    min-width: 400px;
+}
+
+.divisore{
+    height: 20px;
+    background-color: rgb(60, 57, 57);
+    width: 100vh;
+
+}
